@@ -1,2 +1,2 @@
-docker-airflow-master/dags/__pycache__
-docker-airflow-master/dags/data.csv 
+airflow/dags/__pycache__
+airflow/dags/data.csv 
